@@ -1,0 +1,24 @@
+/* line styles */
+.axis path,
+.axis line { 
+	fill: none;
+	stroke: #333;
+	shape-rendering: crispEdges;
+}
+
+/* labels */
+.axis text {
+    font-family: 'Quicksand', sans-serif;
+	font-size: 11px;
+}
+
+.container {
+    margin: 15px;
+    font-family: 'Quicksand', sans-serif;
+    text-align: center;
+}
+
+header {
+    font-size: 35px;
+    padding: 10px;
+}
